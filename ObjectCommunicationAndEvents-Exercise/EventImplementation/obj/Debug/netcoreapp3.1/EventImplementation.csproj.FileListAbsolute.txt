@@ -1,0 +1,13 @@
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.exe
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.deps.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.runtimeconfig.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.runtimeconfig.dev.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\bin\Debug\netcoreapp3.1\EventImplementation.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.csprojAssemblyReference.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.AssemblyInfoInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.AssemblyInfo.cs
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.csproj.CoreCompileInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\EventImplementation\obj\Debug\netcoreapp3.1\EventImplementation.genruntimeconfig.cache

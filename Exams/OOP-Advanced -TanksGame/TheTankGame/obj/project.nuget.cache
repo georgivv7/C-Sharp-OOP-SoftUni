@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYzIQ6+FVO6ITrT2xq02Y2BXICvMVSLrAJ7BKXrZcVdkCDaQZZoMnVq9x/JsgsVeYATKQ7Gl3TtPcrUJc7mgIQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# OOP\\OOP-Advanced -TanksGame\\TheTankGame\\TheTankGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

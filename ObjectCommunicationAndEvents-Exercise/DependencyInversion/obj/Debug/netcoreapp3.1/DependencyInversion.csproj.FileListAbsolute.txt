@@ -1,0 +1,13 @@
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.exe
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.deps.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.runtimeconfig.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.runtimeconfig.dev.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\bin\Debug\netcoreapp3.1\DependencyInversion.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csprojAssemblyReference.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfoInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.AssemblyInfo.cs
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.csproj.CoreCompileInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\DependencyInversion\obj\Debug\netcoreapp3.1\DependencyInversion.genruntimeconfig.cache

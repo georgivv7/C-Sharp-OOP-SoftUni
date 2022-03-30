@@ -1,0 +1,12 @@
+D:\C# OOP\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.deps.json
+D:\C# OOP\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.json
+D:\C# OOP\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.runtimeconfig.dev.json
+D:\C# OOP\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\C# OOP\TheTankGame\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csprojAssemblyReference.cache
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfoInputs.cache
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.AssemblyInfo.cs
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.csproj.CoreCompileInputs.cache
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.dll
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp2.1\TheTankGame.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

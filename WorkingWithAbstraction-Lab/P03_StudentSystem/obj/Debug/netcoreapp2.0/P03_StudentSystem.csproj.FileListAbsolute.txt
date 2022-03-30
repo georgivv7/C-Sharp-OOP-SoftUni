@@ -1,0 +1,12 @@
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Lab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.genruntimeconfig.cache

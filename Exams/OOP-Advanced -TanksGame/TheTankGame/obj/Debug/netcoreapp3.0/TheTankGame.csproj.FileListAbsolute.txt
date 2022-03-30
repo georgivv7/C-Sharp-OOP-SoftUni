@@ -1,0 +1,17 @@
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.csprojAssemblyReference.cache
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.AssemblyInfoInputs.cache
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.AssemblyInfo.cs
+D:\C# OOP\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.exe
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.deps.json
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.runtimeconfig.json
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.runtimeconfig.dev.json
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.dll
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\bin\Debug\netcoreapp3.0\TheTankGame.pdb
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.csprojAssemblyReference.cache
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.AssemblyInfoInputs.cache
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.AssemblyInfo.cs
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.dll
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.pdb
+D:\C# OOP\OOP-Advanced -TanksGame\TheTankGame\obj\Debug\netcoreapp3.0\TheTankGame.genruntimeconfig.cache

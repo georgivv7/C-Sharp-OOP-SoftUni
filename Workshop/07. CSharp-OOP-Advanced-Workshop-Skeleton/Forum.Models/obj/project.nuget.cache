@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeIe0YNTDAevgyEjuUO2MulOivMLD5v04lp9an8romVMByJ6XYwHaeJiG239GCM1CUiCEVQKUFsY88tXZGlRFQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# OOP\\Workshop\\07. CSharp-OOP-Advanced-Workshop-Skeleton\\Forum.Models\\Forum.DataModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

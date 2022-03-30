@@ -1,0 +1,13 @@
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

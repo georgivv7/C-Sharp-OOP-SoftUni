@@ -1,0 +1,11 @@
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.genruntimeconfig.cache

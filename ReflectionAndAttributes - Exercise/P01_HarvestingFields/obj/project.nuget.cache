@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d1ComndNAMdeBMyuJP0OcehssYhTy94kwjIgnzyx54RLB83VZvj6q0MNkqK3w3CyCeTQs/O0oikfDLdx4K32lg==",
+  "success": true,
+  "projectFilePath": "D:\\C# OOP\\ReflectionAndAttributes - Exercise\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

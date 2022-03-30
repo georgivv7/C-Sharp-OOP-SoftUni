@@ -1,0 +1,58 @@
+﻿namespace P03_StudentSystem
+{
+    using System;
+    using System.Collections.Generic;
+  
+    public class Student
+    {
+        private string name;
+        private int age;
+        private double grade;
+
+        public double Grade
+        {
+            get { return grade; }
+            set { grade = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public Student(string name, int age, double grade)
+        {
+            this.Name = name;
+            this.Age = age;
+            this.Grade = grade;
+        }
+        public override string ToString()
+        {
+            var comment = studentComment();
+            return $"{Name} is {Age} years old. {comment}";
+        }
+
+        private string studentComment()
+        {
+            if (Grade >= 5.00)
+            {
+                return "Excellent student.";
+            }
+            else if (Grade < 5.00 && Grade >= 3.50)
+            {
+                return "Average student.";
+            }
+            else
+            {
+                return "Very nice person.";
+            }
+        }
+    }
+}

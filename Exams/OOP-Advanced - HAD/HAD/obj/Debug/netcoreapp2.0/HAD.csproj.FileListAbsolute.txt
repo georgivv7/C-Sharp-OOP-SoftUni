@@ -1,0 +1,12 @@
+D:\C# OOP\HAD\bin\Debug\netcoreapp2.0\HAD.deps.json
+D:\C# OOP\HAD\bin\Debug\netcoreapp2.0\HAD.runtimeconfig.json
+D:\C# OOP\HAD\bin\Debug\netcoreapp2.0\HAD.runtimeconfig.dev.json
+D:\C# OOP\HAD\bin\Debug\netcoreapp2.0\HAD.dll
+D:\C# OOP\HAD\bin\Debug\netcoreapp2.0\HAD.pdb
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.csprojAssemblyReference.cache
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.AssemblyInfoInputs.cache
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.AssemblyInfo.cs
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.csproj.CoreCompileInputs.cache
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.dll
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.pdb
+D:\C# OOP\HAD\obj\Debug\netcoreapp2.0\HAD.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp3.0\Forum.DataModels.deps.json
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp3.0\Forum.DataModels.dll
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\bin\Debug\netcoreapp3.0\Forum.DataModels.pdb
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp3.0\Forum.DataModels.AssemblyInfoInputs.cache
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp3.0\Forum.DataModels.AssemblyInfo.cs
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp3.0\Forum.DataModels.csproj.CoreCompileInputs.cache
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp3.0\Forum.DataModels.dll
+D:\C# OOP\Workshop\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.Models\obj\Debug\netcoreapp3.0\Forum.DataModels.pdb

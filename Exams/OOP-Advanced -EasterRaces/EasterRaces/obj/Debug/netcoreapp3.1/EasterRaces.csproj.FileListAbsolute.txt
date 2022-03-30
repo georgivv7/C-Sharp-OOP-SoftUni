@@ -1,0 +1,13 @@
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
+D:\C# OOP\Exams\OOP-Advanced -EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache

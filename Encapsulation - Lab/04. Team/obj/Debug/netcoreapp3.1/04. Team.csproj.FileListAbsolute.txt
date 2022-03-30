@@ -1,0 +1,13 @@
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.exe
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.deps.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.runtimeconfig.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.dll
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\bin\Debug\netcoreapp3.1\04. Team.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.dll
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Lab\04. Team\obj\Debug\netcoreapp3.1\04. Team.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.exe
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.deps.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.runtimeconfig.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02. ClassBoxDataValidation.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\02. ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02. ClassBoxDataValidation.genruntimeconfig.cache

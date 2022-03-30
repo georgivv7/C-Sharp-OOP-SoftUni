@@ -1,0 +1,7 @@
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csprojAssemblyReference.cache
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe.config
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.pdb
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.exe
+D:\C# OOP\OOP-Advanced-07-Sep-2017\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.pdb

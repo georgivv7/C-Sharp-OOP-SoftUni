@@ -1,0 +1,12 @@
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.deps.json
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.json
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.runtimeconfig.dev.json
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.dll
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\bin\Debug\netcoreapp2.0\CosmosX.pdb
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csprojAssemblyReference.cache
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfoInputs.cache
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.AssemblyInfo.cs
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.dll
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.pdb
+D:\C# OOP\OOP-Advanced-CosmosX\CosmosX\obj\Debug\netcoreapp2.0\CosmosX.genruntimeconfig.cache

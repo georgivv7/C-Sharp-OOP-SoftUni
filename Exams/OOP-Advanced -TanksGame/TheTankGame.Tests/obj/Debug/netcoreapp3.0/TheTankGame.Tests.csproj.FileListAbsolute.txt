@@ -1,0 +1,4 @@
+D:\C# OOP\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp3.0\TheTankGame.Tests.csprojAssemblyReference.cache
+D:\C# OOP\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp3.0\TheTankGame.Tests.AssemblyInfoInputs.cache
+D:\C# OOP\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp3.0\TheTankGame.Tests.AssemblyInfo.cs
+D:\C# OOP\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp3.0\TheTankGame.Tests.csproj.CoreCompileInputs.cache

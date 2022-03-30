@@ -1,0 +1,13 @@
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.exe
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.deps.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.runtimeconfig.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\bin\Debug\netcoreapp3.1\03. AnimalFarm.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\03. AnimalFarm\obj\Debug\netcoreapp3.1\03. AnimalFarm.genruntimeconfig.cache

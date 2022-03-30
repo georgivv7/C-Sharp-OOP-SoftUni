@@ -1,0 +1,12 @@
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\C# OOP-Basics-2018\WorkingWithAbstraction-Exercise\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.genruntimeconfig.cache

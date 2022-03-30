@@ -1,0 +1,13 @@
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.exe
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.deps.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.runtimeconfig.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.runtimeconfig.dev.json
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\bin\Debug\netcoreapp3.1\01. ClassBox.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.csprojAssemblyReference.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.AssemblyInfoInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.AssemblyInfo.cs
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.csproj.CoreCompileInputs.cache
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.dll
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.pdb
+D:\C# OOP-Basics-2018\Encapsulation - Exercise\01. ClassBox\obj\Debug\netcoreapp3.1\01. ClassBox.genruntimeconfig.cache

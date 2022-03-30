@@ -1,0 +1,12 @@
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.deps.json
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.json
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.dev.json
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csprojAssemblyReference.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfoInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfo.cs
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csproj.CoreCompileInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Lab\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.genruntimeconfig.cache

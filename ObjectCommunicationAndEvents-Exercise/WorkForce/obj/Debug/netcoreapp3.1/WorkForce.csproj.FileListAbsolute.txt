@@ -1,0 +1,13 @@
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.exe
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.deps.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.runtimeconfig.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.runtimeconfig.dev.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\bin\Debug\netcoreapp3.1\WorkForce.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.csprojAssemblyReference.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.AssemblyInfoInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.AssemblyInfo.cs
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.csproj.CoreCompileInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\WorkForce\obj\Debug\netcoreapp3.1\WorkForce.genruntimeconfig.cache

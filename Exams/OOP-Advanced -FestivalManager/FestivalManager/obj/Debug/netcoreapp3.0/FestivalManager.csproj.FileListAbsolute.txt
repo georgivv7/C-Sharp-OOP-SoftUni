@@ -1,0 +1,12 @@
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.exe
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.deps.json
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.runtimeconfig.json
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.runtimeconfig.dev.json
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.dll
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\bin\Debug\netcoreapp3.0\FestivalManager.pdb
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.AssemblyInfoInputs.cache
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.AssemblyInfo.cs
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.dll
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.pdb
+D:\C# OOP\OOP-Advanced -FestivalManager\FestivalManager\obj\Debug\netcoreapp3.0\FestivalManager.genruntimeconfig.cache

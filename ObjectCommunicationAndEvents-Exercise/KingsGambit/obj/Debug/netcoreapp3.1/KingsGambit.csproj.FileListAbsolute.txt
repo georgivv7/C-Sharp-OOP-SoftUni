@@ -1,0 +1,13 @@
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.exe
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.deps.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.runtimeconfig.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.runtimeconfig.dev.json
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\bin\Debug\netcoreapp3.1\KingsGambit.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.csprojAssemblyReference.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.AssemblyInfoInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.AssemblyInfo.cs
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.csproj.CoreCompileInputs.cache
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.dll
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.pdb
+D:\C# OOP\ObjectCommunicationAndEvents-Exercise\KingsGambit\obj\Debug\netcoreapp3.1\KingsGambit.genruntimeconfig.cache

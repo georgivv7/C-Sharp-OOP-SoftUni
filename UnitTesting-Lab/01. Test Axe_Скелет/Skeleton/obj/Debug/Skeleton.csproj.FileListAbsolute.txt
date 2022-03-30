@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\Skeleton.exe.config
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\Skeleton.exe
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\Skeleton.pdb
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\obj\Debug\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\obj\Debug\Skeleton.csproj.CopyComplete
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\obj\Debug\Skeleton.exe
+C:\Users\user\Desktop\01. Test Axe_Скелет\Skeleton\obj\Debug\Skeleton.pdb
